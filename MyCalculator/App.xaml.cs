@@ -13,5 +13,6 @@ namespace MyCalculator
     /// </summary>
     public partial class App : Application
     {
+        ///
     }
 }
