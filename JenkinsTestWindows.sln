@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JenkinsTestWindows", "JenkinsTestWindows\JenkinsTestWindows.csproj", "{C90687D5-2FCE-4F2E-A626-5784F0DD0F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalculator", "MyCalculator\MyCalculator.csproj", "{D42405BC-18FA-4363-9811-9174E7F02341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{A184E39D-87FA-45A2-8CF4-39AF99FB5484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmClockTest", "D:\Software\Automation\Windows GUI Automation\WinAppDriver-master\Samples\C#\AlarmClockTest\AlarmClockTest.csproj", "{D2D62728-48E1-46C3-BA5B-F5923B0326B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTest", "D:\Software\Automation\Windows GUI Automation\WinAppDriver-master\Samples\C#\CalculatorTest\CalculatorTest.csproj", "{B2C5ADFF-D6B5-48C1-BB8C-571BFD583D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorUITest", "CalculatorUITest\CalculatorUITest.csproj", "{3AF01450-A5FF-40B0-A7E9-0ADD7199B975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C90687D5-2FCE-4F2E-A626-5784F0DD0F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90687D5-2FCE-4F2E-A626-5784F0DD0F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90687D5-2FCE-4F2E-A626-5784F0DD0F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90687D5-2FCE-4F2E-A626-5784F0DD0F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42405BC-18FA-4363-9811-9174E7F02341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42405BC-18FA-4363-9811-9174E7F02341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42405BC-18FA-4363-9811-9174E7F02341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42405BC-18FA-4363-9811-9174E7F02341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A184E39D-87FA-45A2-8CF4-39AF99FB5484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A184E39D-87FA-45A2-8CF4-39AF99FB5484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A184E39D-87FA-45A2-8CF4-39AF99FB5484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A184E39D-87FA-45A2-8CF4-39AF99FB5484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D62728-48E1-46C3-BA5B-F5923B0326B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D62728-48E1-46C3-BA5B-F5923B0326B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D62728-48E1-46C3-BA5B-F5923B0326B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D62728-48E1-46C3-BA5B-F5923B0326B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C5ADFF-D6B5-48C1-BB8C-571BFD583D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C5ADFF-D6B5-48C1-BB8C-571BFD583D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C5ADFF-D6B5-48C1-BB8C-571BFD583D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C5ADFF-D6B5-48C1-BB8C-571BFD583D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF01450-A5FF-40B0-A7E9-0ADD7199B975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF01450-A5FF-40B0-A7E9-0ADD7199B975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF01450-A5FF-40B0-A7E9-0ADD7199B975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF01450-A5FF-40B0-A7E9-0ADD7199B975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {789C90FE-CB79-4D2F-97D0-8EFA6591D942}
+	EndGlobalSection
+EndGlobal
