@@ -8,4 +8,3 @@ node{
         cd %msbildpath%
         MSBuild.exe "C:\\Program Files (x86)\\Jenkins\\workspace\\AzureReposDemo1\\CalculatorTest.sln"'''
 		}
-}
